@@ -10,9 +10,9 @@ So this sentiment analysis will help us to understand the emotion weightage acro
 ##### Process flow:
 1. Scaping tweets
 2. Cleaning the tweets
-3.Apply lemmatization and remove stop words
-4.Create target variable use sentiment intensity analyzer( This is assumed to be the original sentiments in this project)
-5.Test with different models 
+3. Apply lemmatization and remove stop words
+4. Create target variable use sentiment intensity analyzer( This is assumed to be the original sentiments in this project)
+5. Test with different models 
   - Model 1: TF-IDF and Neural networks
   - Model 2: Word embeddings and Neural networks
   - Model 3: Deeplearning model with recurrent and convolution layers (Bidirectional and LSTM layers,SimpleRNN)
